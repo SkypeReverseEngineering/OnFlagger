@@ -5,8 +5,8 @@ Re-implementation of the Skype Flags server (flagsapi.skype.com) for Skype Class
 
 # 💬 Usage
 1. Add the following string to your hosts file: `127.0.0.1 flagsapi.skype.com`
-2. Exempt the URL the server is listening on (Windows only): `netsh http add urlacl url=http://flagsapi.skype.com:80/ user=Everyone`
-3. Run the server (on Linux, make sure to run it as root, since the previous step cannot be done on Linux)
+2. Exempt the URL the server is listening on: `netsh http add urlacl url=http://flagsapi.skype.com:80/ user=Everyone`
+3. Run the server
 
 # 👨‍💻 Contributing
 You may proceed with the following steps if you wish to contribute to this project
