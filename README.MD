@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
 # 💬 SkypeFlagsServer
 Re-implementation of the Skype Flags server (flagsapi.skype.com) for Skype Classic Revived
 
