@@ -1,8 +1,5 @@
-# 💬 SkypeFlagsServer
-Re-implementation of the Skype Flags server (flagsapi.skype.com) for Skype Classic Revived
-
-# ⚠️ Deprecation Notice
-This project has been deprecated as this server has been merged with Skype Classic Revived
+# 💬 OnFlagger
+Fork of vlOd's SkypeFlagsServer
 
 # 💬 Usage
 1. Add the following string to your hosts file: `127.0.0.1 flagsapi.skype.com`
